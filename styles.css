@@ -1,0 +1,12 @@
+body {
+  margin: 24px;
+  font-family: "Happy Monkey", system-ui;
+  text-align: center;
+}
+
+#profile-pic {
+  width: 150px;
+  /* border-radius: 150px; */
+  border-radius: 50%;
+  margin: 16px 0;
+}
