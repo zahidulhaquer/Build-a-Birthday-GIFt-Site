@@ -40,3 +40,66 @@ body {
   flex-direction: column;
   align-items: center;
 }
+
+.gift-section {
+  margin-top: 50px;
+}
+
+.gift-title {
+  margin-bottom: 10;
+}
+
+.gift-hint {
+  margin-top: 0;
+}
+
+#gift-img-1 {
+  background-image: url("./images/gift-cover.jpg");
+  height: 400px;
+  width: 400px;
+  border: 6px solid white;
+  border-radius: 5px;
+  background-size: cover;
+  margin: 0 auto;
+}
+
+.gift-img {
+  margin-top: 400px;
+  background-image: url("./images/gift-cover.jpg");
+  height: 400px;
+  width: 400px;
+  border: 6px solid white;
+  border-radius: 5px;
+  background-size: cover;
+  margin: 0 auto;
+}
+
+#gift-img-happy:hover {
+  background-image: url("./images/happy.gif");
+  cursor: grabbing;
+}
+
+
+#gift-img-hot:hover {
+  background-image: url("./images/hot.gif");
+  cursor: grabbing;
+}
+
+#gift-img-genius:hover {
+  background-image: url("./images/genius.gif");
+  cursor: grabbing;
+}
+
+#gift-img-badass:hover {
+  background-image: url("./images/badass.gif");
+  cursor: grabbing;
+}
+
+#gift-img-cheers:hover {
+  background-image: url("./images/cheers.gif");
+  cursor: grabbing;
+}
+
+#gift-img-cheers {
+  height: 200px;
+}
